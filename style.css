@@ -1,0 +1,30 @@
+h1{
+    font-family: 'Bangers';
+    text-align: center;
+    font-size: 60px;
+}
+
+p{
+   font-family: 'Dancing Script';
+   text-align: center;
+   font-size: 30px;
+}
+
+#background{
+    background-color: #9564c4;
+}
+
+table {
+  border-collapse: collapse;
+  margin-top: 10px;
+  margin-left: 35%;
+}
+
+table, th, td {
+  border: 2px solid lightblue;
+}
+
+th, td{
+    padding: 15px;
+  text-align: left;
+}
